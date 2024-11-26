@@ -34,11 +34,11 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Community</h4>
             <div className="flex space-x-4">
-              <a href="https://twitter.com/decentr_assets" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+              <a href="https://twitter.com/decentr_assets........." target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                 <Twitter size={24} />
               </a>
            
-              <a href="#" className="text-gray-400 hover:text-white">
+              <a href="https://github.com/ianmuriuki/AssetQ-Coin" className="text-gray-400 hover:text-white">
                 <Github size={24} />
               </a>
             </div>
